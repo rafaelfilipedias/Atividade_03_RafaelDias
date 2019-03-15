@@ -17,6 +17,7 @@ namespace Atividade_03_RafaelDias
             Console.WriteLine("Adicionando a quinta linha");
             Console.WriteLine("1");
             Console.WriteLine("2");
+            Console.WriteLine("3");
         }
     }
 }
