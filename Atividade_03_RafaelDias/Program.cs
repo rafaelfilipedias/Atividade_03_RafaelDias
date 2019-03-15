@@ -11,6 +11,7 @@ namespace Atividade_03_RafaelDias
         static void Main(string[] args)
         {
             Console.WriteLine("Criando a primeira linha");
+            Console.WriteLine("Adicionando a segunda linha");
         }
     }
 }
