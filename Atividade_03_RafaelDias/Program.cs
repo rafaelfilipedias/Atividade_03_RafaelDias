@@ -20,6 +20,11 @@ namespace Atividade_03_RafaelDias
             Console.WriteLine("AC - linha tres");
             Console.WriteLine("AC - linha quatro");
             Console.WriteLine("AC - linha cinco");
+            Console.WriteLine("1");
+            Console.WriteLine("2");
+            Console.WriteLine("3");
+            Console.WriteLine("4");
+            Console.WriteLine("5");
         }
     }
 }
